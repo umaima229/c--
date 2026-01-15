@@ -45,3 +45,25 @@ int main()
 
     return 0;
 }
+// =============code no 3==================
+//code no 15
+#include <stdio.h>
+
+int main()
+{
+    int col, row;
+
+    for(row = 1; row < 12; row++)
+    {
+        for(col = 1; col < 12; col++)
+        {
+            if((row + col) % 2 == 0)
+                printf("*");  
+            else
+                printf(" ");
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
