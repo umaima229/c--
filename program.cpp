@@ -45,8 +45,8 @@ int main()
 
     return 0;
 }
-// =============code no 3==================
-//code no 15
+// =============code no 3 means 15 ==================
+
 #include <stdio.h>
 
 int main()
