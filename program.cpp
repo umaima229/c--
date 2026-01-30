@@ -212,7 +212,7 @@ int main() {
     return 0;
 }
 
-// yesterday practicle no 4 ,7,8,9,10
+
 // =================Practical no 4==============
 #include <stdio.h>
 
