@@ -407,5 +407,5 @@ int main() {
     printf("\n\nThe average temperature is: %.2f\n", avg);
   
     return 0;
-}
 
+// ==================Half Questions Completed===============
